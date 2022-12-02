@@ -1,0 +1,6 @@
+[Language]: C++
+
+[Command]:
+	To compile euclideanmst.cpp 
+	run g++ euclideanmst.cpp -o mst
+	run ./mst
