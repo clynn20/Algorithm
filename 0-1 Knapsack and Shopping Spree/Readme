@@ -1,0 +1,15 @@
+Language: C++
+
+Running command:
+		To compile knapscak file
+		run g++ -std=c++11 knapsack.cpp -o ks
+		run ./ks       
+
+		To compile shopping file
+		run g++ -std=c++11 shopping.cpp -o sp
+		run ./sp      
+		You will see results.txt in the same folder after running the above command
+	
+
+
+
