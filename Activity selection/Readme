@@ -1,0 +1,7 @@
+Language: c++
+
+Running command:
+		To compile activity.cpp
+		run g++ activity.cpp -o act
+		run ./act 
+
